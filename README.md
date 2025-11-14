@@ -7,6 +7,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.0-38bdf8.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+## 🚀 Live Demo
+
+Play the game here:  
+👉 https://serpentine-nexus-professional-snake-orpin.vercel.app/
+
 ## 🎮 Features
 
 ### 🎯 Core Gameplay
